@@ -1,8 +1,8 @@
 name: Hydrogen
 description: 'html5 bootstrap template that is good for creative and portfolio sites. This template uses mosaic grid for a homepage to show off your artworks professionally and elegantly.'
-author: 'SLIDER.WEB studio'
-homepage: 'http://sliderweb.ru'
-code: SLIDERWEB_0002_hydrogen-theme
+author: 'SLIDER.WEB studio, Miha Trtnik'
+homepage: 'https://github.com/webeks/Hydrogen'
+code: webeks-hydrogen
 form:
     fields:
         site_name:
